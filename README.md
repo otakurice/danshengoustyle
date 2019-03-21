@@ -11,7 +11,7 @@ zhihuxjj一个scrapy框架写成的爬虫，配置mysql数据库后，运行main
 studyxjj分析单个用户动态。
 
 #### 博客
-- 代码可结合知乎文章阅读：https://zhuanlan.zhihu.com/p/30903845
+- 代码可结合知乎文章阅读：https://mp.weixin.qq.com/s/62s11jje0RtOKOGmRpyjmA
 
 #### 关于我
 - 一个特别擅长不务正业的人
